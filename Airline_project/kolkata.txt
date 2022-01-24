@@ -1,0 +1,4 @@
+S.no   Flight_no   Arrival_Place     Arrival_Date       Arrival_Time
+1      XYZ-111      Delhi              11 Feb                 11:30
+2      XYZ-453      Hyderbad           6 Feb                  14:00
+3      XYZ-623      Mumbai             13 Feb                 20:20

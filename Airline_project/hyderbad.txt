@@ -1,0 +1,4 @@
+S.no   Flight_no   Arrival_Place     Arrival_Date       Arrival_Time
+1      XYZ-987      Kolkata            9 Feb                 15:45
+2      XYZ-574      Delhi              6 Feb                 18:20
+3      XYZ-239      Mumbai             5 Feb                 21:30

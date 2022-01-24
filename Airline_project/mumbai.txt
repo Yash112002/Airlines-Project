@@ -1,0 +1,4 @@
+S.no   Flight_no   Arrival_Place     Arrival_Date       Arrival_Time
+1      XYZ-202      Kolkata            17 Feb                 14:45
+2      XYZ-745      Hyderbad           4 Feb                  19:40
+3      XYZ-824      Delhi              9 Feb                  07:15

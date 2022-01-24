@@ -1,0 +1,13 @@
+Age     Gender   Booked_Flight   PNR     Name_Of_Passenger
+19       m         XYZ-609       XY139   yash
+19       m         XYZ-777       XY382   yash
+16       f         XYZ-777       XY415   sneha
+19       m         XYZ-777       XY726   yash nadanwar
+19       f         XYZ-777       XY765   yash
+4199120       w         XYZ-777       XY817   fwe
+4199120       f         XYZ-777       XY827   wefwe
+19       m         @       XY604   Yash
+19       m         @       XY646   Yashwant
+20       m         @       XY689   rahul
+19       m         XYZ-777       XY263   yash
+19       m         XYZ-777       XY280   yashwant
